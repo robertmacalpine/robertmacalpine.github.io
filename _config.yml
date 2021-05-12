@@ -2,7 +2,7 @@
 title: Robert MacAlpine's Main Site # site title
 description: >- # site description
   Dev from the UK, currently building projects for the web and in Godot.
-  I'm still populating this site with projects, but you can find my<a href="https://github.com/robertmacalpine" target="_blank" rel="noopener">github</a>.
+  I'm still populating this site with projects, but you can find my <a href="https://github.com/robertmacalpine" target="_blank" rel="noopener">github</a>.
 lang: en-GB # default lang
 timezone: Europe/London # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -14,7 +14,7 @@ author:
   name: Robert MacAlpine # author name
   bio: >- # tell to the world
     Dev from the UK, currently building projects for the web and in Godot.
-    I'm still populating this site with projects, but you can find my<a href="https://github.com/robertmacalpine" target="_blank" rel="noopener">github</a>.
+    I'm still populating this site with projects, but you can find my <a href="https://github.com/robertmacalpine" target="_blank" rel="noopener">github</a>.
   username: robertmacalpine # general username
   github: robertmacalpine # github username
   twitter: robertmacalpine # twitter username
